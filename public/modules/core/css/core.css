@@ -18,3 +18,30 @@ body.ng-cloak
 {
 	display: block;
 }
+
+.black {
+	background:black;
+}
+
+.viewport{
+	width:20em;
+	height:20em;
+	border-radius:50%;
+	background:white;
+	margin:auto;
+}
+
+.fortune {
+	padding:5em 3em;
+	font-size:1em;
+	color:#777777;
+	border-radius:50%;
+}
+
+.theeight {
+	width:2em;
+	text-align:center;
+	margin:auto;
+	color:white;
+	font-size:10em;
+}
